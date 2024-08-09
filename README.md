@@ -45,7 +45,7 @@ Extract all the files from the downloaded ZIP file.
 **Step 3:**
 
 
-The following files should exist in the database folder which is inside the Course_Registration_System:
+The following files should exist in the database folder which is inside the cmake-build-debug:
 
 - Login_db.csv(user_id,password)
 - Temporary_creds.csv(user_id,password)
@@ -65,12 +65,14 @@ The following files should exist in the database folder which is inside the Cour
 
 **Step 5:**
 
-In the Course_Registration_System folder,  Course_Registration_System.exe file will be available.   
+In the cmake-build-debug folder,  Course_Registration_System.exe file will be available.   
 Open the exe file.
 
 ## Compilation
 
-The C Application is built with the help of certain external libraries. Before compiling, one must ensure all these build-dependencies are satisfied. These dependencies include:
+The C Application is built with the help of certain external libraries. You can directly run the executable. But if you want to compile you can compile using the following steps:
+
+Before compiling, one must ensure all these build-dependencies are satisfied. These dependencies include:
 
 - **Raylib** and **libcurl** should be installed into the `Course_Registration_System` folder in the source code.
 - **Raygui** should be installed globally on the system and its path should be included in the linker's path of the compiler.
