@@ -38,6 +38,10 @@ To start with the course registration application,
 Download the ZIP file for the course registration Software from the given drive link : 
 https://drive.google.com/file/d/1aGoIEQbZllDWrB9w_LziWkhsTex0tkXU/view?usp=sharing
 
+or
+
+clone the repository using this https://github.com/Ramcharan-Swaminathan/Course-Registration-System.git
+
 **Step 2:**
 
 Extract all the files from the downloaded ZIP file.
