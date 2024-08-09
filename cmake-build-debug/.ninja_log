@@ -1,0 +1,27 @@
+# ninja log v5
+4	416	7449008250558999	build.ninja	7b979dd347d010c
+74	717	7406579909851383	CMakeFiles/Course_Registration_System.dir/modifying_functions.c.obj	768458eadb6ec913
+28	330	7406256840764947	CMakeFiles/Course_Registration_System.dir/file_functions.c.obj	c805f8885dbfa0e1
+97	326	7406256840171443	CMakeFiles/Course_Registration_System.dir/Structure_definitions.c.obj	eb494ffd4fee8272
+255	1846	7406256855989234	CMakeFiles/Course_Registration_System.dir/mail.c.obj	102e227202b0d2ca
+17	316	7406256839167109	CMakeFiles/Course_Registration_System.dir/trial.c.obj	83c42017de99eeb2
+54	722	7406579909862588	CMakeFiles/Course_Registration_System.dir/login_signup.c.obj	c5ff1a83066a5814
+1604	4751	7406250965095980	Course_registration_System.exe	1ee83b4d4e7762
+13	427	7406610336897609	CMakeFiles/Course_Registration_System.dir/add_module.c.obj	2e7450a19dc6b098
+128	728	7406579909964819	CMakeFiles/Course_Registration_System.dir/remove_module.c.obj	e576af2320b226de
+165	737	7406579910082643	CMakeFiles/Course_Registration_System.dir/view_module.c.obj	a7008d9e5c7ac1e
+146	749	7406579910178515	CMakeFiles/Course_Registration_System.dir/slot.c.obj	7969cccebade54c2
+6	635	7411001997739331	CMakeFiles/Course_Registration_System.dir/main.c.obj	7bdcaa2a7f52f755
+636	2901	7411001999609565	Course_Registration_System.exe	acbb6cbfed51a3cd
+22	317	7449008371664280	CMakeFiles/Course_Registration_System.dir/trial.c.obj	b2984404161379fb
+33	321	7449008372848531	CMakeFiles/Course_Registration_System.dir/file_functions.c.obj	298cf7c6c41c270e
+44	324	7449008373228253	CMakeFiles/Course_Registration_System.dir/login_signup.c.obj	34623ef1c997b4c4
+65	329	7449008373331007	CMakeFiles/Course_Registration_System.dir/modifying_functions.c.obj	f18725e532fdc865
+98	332	7449008372684617	CMakeFiles/Course_Registration_System.dir/Structure_definitions.c.obj	1dc2f52e18ca3737
+126	424	7449008374300639	CMakeFiles/Course_Registration_System.dir/add_module.c.obj	602a86bf84772212
+160	427	7449008374333942	CMakeFiles/Course_Registration_System.dir/remove_module.c.obj	e5c8c0cb4807fdbb
+186	498	7449008375026345	CMakeFiles/Course_Registration_System.dir/slot.c.obj	1acbf92334debdd6
+212	506	7449008375112158	CMakeFiles/Course_Registration_System.dir/view_module.c.obj	2e2499fe8decb9fa
+10	934	7449008379394828	CMakeFiles/Course_Registration_System.dir/main.c.obj	a93989059fed634f
+258	2134	7449008391396268	CMakeFiles/Course_Registration_System.dir/mail.c.obj	82997d9be9a27b5c
+2134	5192	7449008393934469	Course_Registration_System.exe	73867000dd3f30ca

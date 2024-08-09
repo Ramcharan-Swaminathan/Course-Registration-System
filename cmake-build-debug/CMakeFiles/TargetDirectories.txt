@@ -1,0 +1,3 @@
+C:/Users/Ramcharan/CLionProjects/SRS - Course_Registration/cmake-build-debug/CMakeFiles/Course_Registration_System.dir
+C:/Users/Ramcharan/CLionProjects/SRS - Course_Registration/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ramcharan/CLionProjects/SRS - Course_Registration/cmake-build-debug/CMakeFiles/rebuild_cache.dir
