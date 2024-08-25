@@ -5,8 +5,8 @@
 #include "Structure_definitions.c"
 #include "file_functions.h"
 #define GMAIL_SMTP_SERVER "smtp://smtp.gmail.com:587"
-#define GMAIL_USERNAME "srsuniversity3@gmail.com"
-#define GMAIL_PASSWORD "vjvb hbqa auef vdck"
+#define GMAIL_USERNAME "enter your email id"
+#define GMAIL_PASSWORD "enter your password"
 
 struct upload_status {
     int lines_read;
